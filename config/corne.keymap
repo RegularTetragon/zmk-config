@@ -61,8 +61,8 @@
             bindings = <
 &kp TAB    &kp F1   &kp F2   &kp F3    &kp F4  &kp F5       &trans           &trans         &trans     &trans   &trans    &kp BSPC
 &kp LCTRL  &kp F6   &kp F7   &kp F8    &kp F9  &kp F10      &kp HOME         &kp PAGE_DOWN  &kp PG_UP  &kp END  &kp BSLH  &kp GRAVE
-&kp LSHFT  &kp F11  &kp F12  &trans    &trans  &kp TILDE    &trans           &trans         &trans     &trans   &trans    &trans
-                             &kp LGUI  &tog 1  &kp ENTER    &kp PRINTSCREEN  &trans         &kp RALT
+&kp LSHFT  &kp F11  &kp F12  &trans    &trans  &kp TILDE    &kp PRINTSCREEN  &trans         &trans     &trans   &trans    &trans
+                             &kp LGUI  &tog 1  &kp ENTER    &kp BACKSPACE    &trans         &kp RALT
             >;
         };
     };
